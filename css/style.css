@@ -1,0 +1,127 @@
+.MainContainer {
+    width: 995px;
+    height: 995px;
+    background: white;
+    border-style: solid;
+    border-color: green;
+}
+
+.section1 {
+    margin: 35px;
+    padding: 15px;
+    width: 780px;
+    height: 140px;
+    border-style: solid;
+    border-color: yellow;
+}
+
+.box1 {
+    float: left;
+    margin: 5px;
+    padding: 8px;
+    width: 250px;
+    height: 106px;
+    border-style: solid;
+    border-color: red;
+}
+
+.box2 {
+    float: right;
+    margin: 5px;
+    padding: 8px;
+    width: 450px;
+    height: 106px;
+    border-style: solid;
+    border-color: blue;
+}
+
+.inside1 {
+    float: left;
+    margin: 1px;
+    margin-left: 40px;
+    padding: 0px;
+    width: 120px;
+    height: 100px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: green;
+    border-bottom-color: green;
+}
+
+.inside2 {
+    float: left;
+    margin: 1px;
+    margin-left: 22px;
+    padding: 0px;
+    width: 120px;
+    height: 100px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: green;
+    border-bottom-color: green;
+}
+
+.inside3 {
+    float: right;
+    margin: 1px;
+    margin-left: 22px;
+    padding: 0px;
+    width: 120px;
+    height: 100px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: green;
+    border-bottom-color: green;
+}
+
+
+}
+.section2 {
+    margin-top: 10px;
+    padding: 15px;
+    width: 800px;
+    height: 340px;
+    border-style: solid;
+    border-color: red;
+}
+.box3 {
+    float: left;
+    margin: 5px;
+    padding: 8px;
+    width: 750px;
+    height: 350px;
+    border-style: solid;
+    border-color: red;
+}
+.b3i1 {
+    float: left;
+    margin: 1px;
+    margin-left: 20px;
+    margin-top: 127px;
+    padding: 15px;
+    width: 220px;
+    height: 100px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: blue;
+    border-bottom-color: blue;
+}
+.b3i2 {
+    float: right;
+    margin-top: 127px;
+    margin-left: 109px;
+    padding: 20px;
+    width: 135px;
+    height: 140px;
+    border-style: solid;
+    border-color: blue;
+}
+.b3i3 {
+    float: right;
+    margin-top: 127px;
+    padding: 20px;
+    width: 100px;
+    height: 106px;
+    border-style: solid;
+    border-color: blue;
+}
